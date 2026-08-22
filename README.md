@@ -1,28 +1,33 @@
 # Home Automation System 🏠
 
-A home-automation project archive containing the system documentation, presentation materials, and packaged implementation files for a smart-home prototype.
+An academic smart-home prototype focused on household automation, centralized control, and system monitoring. This repository preserves the project documentation, presentation, and packaged implementation.
+
+## 🎯 Project Overview
+
+The project explores the design of a home automation system that brings household control and monitoring functions together in one system. The repository is currently organized as a **project archive** rather than as an unpacked source tree.
 
 ## 📦 Repository Contents
 
 - `Home automation system.docx` — detailed project documentation.
-- `Home automation system.pptx` — presentation material describing the project.
-- `Home automation system.zip` — packaged project implementation/assets.
+- `Home automation system.pptx` — project presentation.
+- `Home automation system.zip` — packaged implementation/source files.
 
-## 🎯 Project Goal
+## 🚀 How to Use the Project
 
-The project explores the design of a home automation system intended to centralize household control and monitoring. The repository is organized primarily as a deliverable archive, with the implementation packaged separately from its supporting documentation.
+1. Download `Home automation system.zip`.
+2. Extract the archive locally.
+3. Follow the setup, architecture, and operation instructions in `Home automation system.docx`.
+4. Use the extracted implementation files for development or demonstration.
+
+The ZIP is intentionally retained as the packaged project deliverable. It is not itself a substitute for an unpacked source directory.
 
 ## 📚 Documentation
 
-The DOCX contains the detailed project write-up, while the PPTX provides a presentation-oriented overview. The ZIP contains the implementation package used for the project.
-
-## 🚀 Using the Project
-
-Because the implementation is distributed as an archive rather than as a conventional source tree, start by downloading and extracting `Home automation system.zip`. Refer to the accompanying DOCX for the project's architecture, requirements, and operation instructions.
+The DOCX contains the detailed project write-up, while the PPTX provides a presentation-friendly summary. Together with the ZIP archive, they preserve the main deliverables of the academic project.
 
 ## 📌 Project Status
 
-Academic/prototype project. The repository is preserved as a complete project submission containing source/package material together with its supporting documentation.
+Completed academic/prototype project preserved as a submission archive.
 
 ## 👤 Author
 
